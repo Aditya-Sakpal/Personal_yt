@@ -1,0 +1,1 @@
+const [interests, setInterests] = useState('');
