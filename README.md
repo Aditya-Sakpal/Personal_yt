@@ -11,7 +11,7 @@ Src folder contains all the frontend code
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. f557096a20msh93122ad4c507b84p16535cjsnaef54371e7cc |
+| `api_key` | `string` | **Required**|
 
 
 
