@@ -35,6 +35,9 @@
 ### Tech Stack Used : 
 <img alt="Coding" align="center" width="500" src="https://firebasestorage.googleapis.com/v0/b/giga-chat-9416b.appspot.com/o/modelImages%2Fmytube_techstack.png?alt=media&token=bff681f0-056b-4dda-85c5-1ed52ba2d56e" >
 
+### System Design : 
+![diagram-export-5-6-2024-3_57_38-PM](https://github.com/Aditya-Sakpal/Personal_yt/assets/112710558/6091e9c7-bf10-423f-917c-77cc52a35c7b)
+
 ### Installation :
 ```bash
    git clone https://github.com/Aditya-Sakpal/Personal_yt.git
